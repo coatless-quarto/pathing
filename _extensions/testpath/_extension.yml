@@ -1,0 +1,7 @@
+title: testpath
+author: James Joseph Balamuta
+version: 0.0.0-dev.1
+quarto-required: ">=1.4.0"
+contributes:
+  filters:
+    - pathing.lua
